@@ -145,7 +145,7 @@ A project is considered 100% complete if it meets:
 ## 🚀 Getting Started
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/username/30-day-ml-project.git
+    git clone https://github.com/EnvyxLinzie/30-Project-Open-Source-Machine-Learning.git
     ```
 2.  Install dependencies:
     ```bash
@@ -162,3 +162,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 *Powered by [OHLC.dev](https://ohlc.dev) - Premium Financial Data API*
+
+## 🌟 Supported by Community
+
+This project is supported by the community:
+- **[Horizonfx.id](https://horizonfx.id)** - Forex Trading Education & Community
+- **[Sixcall.net](https://sixcall.net)** - Trading Technology & Innovation

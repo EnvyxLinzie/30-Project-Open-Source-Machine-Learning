@@ -145,7 +145,7 @@ Proyek dianggap selesai 100% jika sudah memenuhi:
 ## 🚀 Cara Memulai
 1.  Clone repositori ini:
     ```bash
-    git clone https://github.com/username/30-day-ml-project.git
+    git clone https://github.com/EnvyxLinzie/30-Project-Open-Source-Machine-Learning.git
     ```
 2.  Install dependencies:
     ```bash
@@ -162,3 +162,9 @@ Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untu
 
 ---
 *Powered by [OHLC.dev](https://ohlc.dev) - Premium Financial Data API*
+
+## 🌟 Supported by Community
+
+Proyek ini didukung oleh komunitas:
+- **[Horizonfx.id](https://horizonfx.id)** - Forex Trading Education & Community
+- **[Sixcall.net](https://sixcall.net)** - Trading Technology & Innovation
