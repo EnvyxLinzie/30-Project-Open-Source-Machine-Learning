@@ -31,6 +31,58 @@ Hubungi Telegram: [@advancedmicrodevice](https://t.me/advancedmicrodevice)
 
 API key ini khusus untuk keperluan pengembangan proyek open-source ini dan akan memberikan Anda akses penuh ke semua data yang diperlukan.
 
+## 🎁 Manfaat untuk Contributors
+
+Dengan berkontribusi pada proyek open-source ini, Anda akan mendapatkan berbagai keuntungan yang berharga untuk pengembangan karir dan skill Anda di bidang Machine Learning dan Quantitative Analysis:
+
+### 1. 🔓 **Akses Penuh ke Premium Data API**
+Dapatkan akses unlimited ke seluruh endpoint OHLC.dev API tanpa biaya. Anda akan memiliki akses ke data finansial real-time yang sama digunakan oleh perusahaan-perusahaan quantitative trading profesional.
+
+### 2. 🆓 **API Key Gratis untuk Pengembangan Proyek**
+Tidak perlu khawatir tentang biaya API subscription. Setiap contributor akan mendapatkan API key gratis khusus untuk keperluan pengembangan proyek kolaboratif dalam repositori ini.
+
+### 3. 🤝 **Networking & Knowledge Sharing**
+Bergabung dengan komunitas developer, trader, dan analyst yang passionate di bidang Machine Learning dan Quantitative Analysis. Dapatkan kesempatan untuk:
+- Berdiskusi langsung dengan praktisi quant trading
+- Berkolaborasi dengan data scientist berpengalaman
+- Sharing knowledge tentang financial markets dan ML algorithms
+- Membangun koneksi profesional di industri fintech Indonesia
+
+### 4. 📖 **100% Open Source untuk Penggunaan Publik**
+Semua proyek yang telah diselesaikan 100% akan dipublikasikan sebagai open-source. Ini berarti:
+- Siapa saja bisa menggunakan hasil karya Anda secara gratis
+- Kontribusi Anda akan membantu ribuan developer lain untuk belajar
+- Meningkatkan visibility profile GitHub Anda sebagai open-source contributor
+
+### 5. 🔧 **Kebebasan Modifikasi untuk Kebutuhan Pribadi**
+Anda bebas untuk melakukan fork terhadap proyek-proyek yang ada dan memodifikasinya sesuai kebutuhan pribadi Anda, baik untuk:
+- Eksperimen pribadi dengan algoritma berbeda
+- Menyesuaikan strategi trading dengan preferensi risk Anda
+- Mengembangkan fitur custom untuk portfolio pribadi
+- Melakukan research dan development untuk keperluan akademis
+
+### 6. ⚖️ **White-Label Projects dengan Persetujuan**
+Jika Anda ingin menggunakan proyek untuk keperluan komersial dengan white-labeling (rebranding), Anda dapat melakukannya dengan:
+- Mendapatkan izin terlebih dahulu dari contributor terkait
+- Menghormati hak intellectual property dari original creators
+- Tetap menjaga atribusi kepada kontributor asli sesuai lisensi MIT
+
+### 7. 💼 **Real Portfolio untuk Karir Quantitative Research**
+Proyek-proyek yang Anda kerjakan di sini akan menjadi **portfolio nyata** yang sangat berharga untuk melamar pekerjaan di:
+- **Quantitative Analyst / Researcher** - Hedge funds, investment banks, prop trading firms
+- **Machine Learning Engineer** - Fintech companies, algorithmic trading firms
+- **Data Scientist (Finance)** - Asset management, financial institutions
+- **Risk Analyst** - Banking, insurance, investment companies
+
+Portfolio ini menunjukkan kepada recruiter bahwa Anda memiliki:
+- ✅ Pengalaman hands-on dengan real financial data
+- ✅ Kemampuan membangun dan mengevaluasi ML models
+- ✅ Pemahaman tentang quantitative trading strategies
+- ✅ Skill dalam collaborative development menggunakan Git
+- ✅ Code quality yang profesional dan terdokumentasi
+
+---
+
 ## 📊 Sumber Data
 Seluruh data yang digunakan dalam proyek ini didukung oleh **[OHLC.dev](https://ohlc.dev)**, penyedia API data finansial yang lengkap dan reliabel.
 

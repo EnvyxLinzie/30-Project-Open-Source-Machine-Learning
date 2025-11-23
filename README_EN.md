@@ -31,6 +31,58 @@ Contact Telegram: [@advancedmicrodevice](https://t.me/advancedmicrodevice)
 
 This API key is specifically for the development of this open-source project and will give you full access to all the data you need.
 
+## 🎁 Benefits for Contributors
+
+By contributing to this open-source project, you will gain valuable advantages for your career and skill development in Machine Learning and Quantitative Analysis:
+
+### 1. 🔓 **Full Access to Premium Data API**
+Gain unlimited access to all OHLC.dev API endpoints at no cost. You'll have access to the same real-time financial data used by professional quantitative trading firms.
+
+### 2. 🆓 **Free API Key for Project Development**
+No need to worry about API subscription costs. Every contributor receives a free API key specifically for developing collaborative projects within this repository.
+
+### 3. 🤝 **Networking & Knowledge Sharing**
+Join a community of passionate developers, traders, and analysts in Machine Learning and Quantitative Analysis. Get opportunities to:
+- Discuss directly with quant trading practitioners
+- Collaborate with experienced data scientists
+- Share knowledge about financial markets and ML algorithms
+- Build professional connections in Indonesia's fintech industry
+
+### 4. 📖 **100% Open Source for Public Use**
+All projects that are 100% completed will be published as open-source. This means:
+- Anyone can use your work for free
+- Your contributions will help thousands of other developers learn
+- Increase your GitHub profile visibility as an open-source contributor
+
+### 5. 🔧 **Freedom to Modify for Personal Needs**
+You are free to fork existing projects and modify them according to your personal needs, whether for:
+- Personal experiments with different algorithms
+- Customizing trading strategies to match your risk preferences
+- Developing custom features for your personal portfolio
+- Conducting research and development for academic purposes
+
+### 6. ⚖️ **White-Label Projects with Permission**
+If you want to use projects for commercial purposes with white-labeling (rebranding), you can do so by:
+- Obtaining permission first from the relevant contributors
+- Respecting the intellectual property rights of original creators
+- Maintaining attribution to original contributors as per MIT license
+
+### 7. 💼 **Real Portfolio for Quantitative Research Career**
+The projects you work on here will become a **real portfolio** that is extremely valuable when applying for jobs at:
+- **Quantitative Analyst / Researcher** - Hedge funds, investment banks, prop trading firms
+- **Machine Learning Engineer** - Fintech companies, algorithmic trading firms
+- **Data Scientist (Finance)** - Asset management, financial institutions
+- **Risk Analyst** - Banking, insurance, investment companies
+
+This portfolio demonstrates to recruiters that you have:
+- ✅ Hands-on experience with real financial data
+- ✅ Ability to build and evaluate ML models
+- ✅ Understanding of quantitative trading strategies
+- ✅ Skills in collaborative development using Git
+- ✅ Professional and well-documented code quality
+
+---
+
 ## 📊 Data Sources
 All data used in this project is powered by **[OHLC.dev](https://ohlc.dev)**, a complete and reliable financial data API provider.
 
