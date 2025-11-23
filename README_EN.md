@@ -5,8 +5,7 @@
 [![Data Source](https://img.shields.io/badge/Data-OHLC.dev-green)](https://ohlc.dev)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-![Project Banner](https://via.placeholder.com/1200x300?text=30-Day+Machine+Learning+Challenge+with+OHLC.dev)
-*(Banner visual placeholder - Feel free to replace with your project banner)*
+![Project Banner](https://files.ohlc.dev/hero.png)
 
 ## 🌍 Language / Bahasa
 - [Bahasa Indonesia](README.md)
@@ -167,4 +166,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project is supported by the community:
 - **[Horizonfx.id](https://horizonfx.id)** - Forex Trading Education & Community
-- **[Sixcall.net](https://sixcall.net)** - Trading Technology & Innovation
+- **[Sixcall.net](https://sixcall.net)** - Cryptocurrency Trading Education & Community
