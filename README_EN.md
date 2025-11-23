@@ -167,3 +167,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This project is supported by the community:
 - **[Horizonfx.id](https://horizonfx.id)** - Forex Trading Education & Community
 - **[Sixcall.net](https://sixcall.net)** - Cryptocurrency Trading Education & Community
+
+### 💼 Interested in Becoming a Supporter?
+
+We are open to collaboration with companies, communities, or individuals who want to support the development of this open-source project. As a supporter, you will contribute to advancing the quantitative trading and machine learning ecosystem in Indonesia.
+
+**Benefits of Becoming a Supporter:**
+- Your company/community logo and profile will be featured in the README
+- Exclusive access to the project's development roadmap
+- Opportunities to collaborate on custom feature development
+- Recognition as a contributor in Indonesia's ML & quant trading community
+
+📬 **Contact Us:**  
+If you are interested in becoming a supporter of this project, please contact us via:
+- **Telegram:** [@advancedmicrodevice](https://t.me/advancedmicrodevice)
+- **Email:** ohlc.dev@gmail.com
+
+Let's build a better quantitative trading ecosystem together!
