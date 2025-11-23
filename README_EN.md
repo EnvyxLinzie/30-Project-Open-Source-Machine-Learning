@@ -15,7 +15,22 @@
 ## 📖 About the Project
 Welcome to **30-Project Open-Source Machine Learning**! This repository contains a collection of 30 Machine Learning projects using real-world financial data from OHLC.dev.
 
+### 🎯 Starter Kit for Quantitative Trading
+This project is specifically designed as a **starter kit** for anyone who wants to learn and develop **Quantitative Trading** systems. In Indonesia, quantitative trading is becoming an extremely popular trend among modern traders and investors. Through this project, you will learn how to:
+- Analyze market data quantitatively
+- Build predictive models using Machine Learning
+- Implement data-driven trading strategies
+- Perform backtesting and risk management
+
 The main goal of this project is to explore, analyze, and predict market movements using various financial datasets, ranging from traditional stocks to crypto assets and news sentiment. You are free to work on projects in any order and at your own pace, or even contribute new projects!
+
+### 🔑 Free API Keys for Contributors
+**IMPORTANT:** For contributors who want to develop this project, you can get a **FREE API Key** from OHLC.dev!
+
+📞 **How to Get an API Key:**
+Contact Telegram: [@advancedmicrodevice](https://t.me/advancedmicrodevice)
+
+This API key is specifically for the development of this open-source project and will give you full access to all the data you need.
 
 ## 📊 Data Sources
 All data used in this project is powered by **[OHLC.dev](https://ohlc.dev)**, a complete and reliable financial data API provider.
@@ -61,6 +76,71 @@ Datasets included:
 | **Project 28** | Market Regime Detector | Detecting market regime changes (Bull/Bear/Sideways Market) | OHLC, Economic Calendar | Hidden Markov Model (HMM) |
 | **Project 29** | Risk Management System | Value at Risk (VaR) and Conditional VaR prediction system | OHLC, IDX Stock Data | Monte Carlo Simulation / GARCH |
 | **Project 30** | Automated Trading Bot | Automated trading bot based on ML predictions with risk management | All APIs | Reinforcement Learning (DQN/PPO) |
+
+## 🤝 Contribution Workflow
+
+We warmly welcome contributions from everyone! Here is a structured contribution workflow to facilitate collaboration:
+
+### 📋 Contribution Steps:
+
+#### 1️⃣ Clone the Repository
+First, clone this repository to your local machine:
+```bash
+git clone https://github.com/EnvyxLinzie/30-Project-Open-Source-Machine-Learning.git
+cd 30-Project-Open-Source-Machine-Learning
+```
+
+#### 2️⃣ Choose a Project
+Check the list of [30 Machine Learning Projects](#️-30-machine-learning-projects-list) above, then choose which project you want to work on.
+
+#### 3️⃣ Work in the `Ongoing-Project` Folder
+- Create a new folder with the project name you chose inside the `Ongoing-Project/` directory
+- Example: `Ongoing-Project/Project-03-IDX-Sector-Analyzer/`
+- Push your work to this folder so other developers can collaborate with you
+
+```bash
+# Example folder structure
+Ongoing-Project/
+  └── Project-03-IDX-Sector-Analyzer/
+      ├── data/
+      ├── notebooks/
+      ├── src/
+      └── README.md
+```
+
+#### 4️⃣ Collaborate with Other Developers
+- Other developers can see your progress and contribute
+- Use Pull Requests for code review
+- Communicate through GitHub Issues
+
+#### 5️⃣ Move to `Completed-Project`
+If the project is **100% complete** and has been reviewed:
+- Move the project folder from `Ongoing-Project/` to `Completed-Project/`
+- Ensure complete documentation (README, requirements.txt, etc.)
+- Add model evaluation results and conclusions
+
+```bash
+# Example completed project structure
+Completed-Project/
+  └── Project-03-IDX-Sector-Analyzer/
+      ├── data/
+      ├── notebooks/
+      ├── src/
+      ├── models/
+      ├── results/
+      ├── README.md
+      └── requirements.txt
+```
+
+### ✅ "Completed" Project Criteria
+A project is considered 100% complete if it meets:
+- ✅ Clean and well-documented code
+- ✅ README explaining how to run the project
+- ✅ ML model trained and evaluated
+- ✅ requirements.txt or environment.yml file included
+- ✅ (Optional) Results visualization or dashboard
+
+---
 
 ## 🚀 Getting Started
 1.  Clone this repository:

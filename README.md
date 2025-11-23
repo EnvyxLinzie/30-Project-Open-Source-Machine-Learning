@@ -15,7 +15,22 @@
 ## 📖 Tentang Proyek
 Selamat datang di **30-Project Open-Source Machine Learning**! Repositori ini berisi koleksi 30 proyek Machine Learning menggunakan data finansial nyata dari OHLC.dev.
 
+### 🎯 Starter Kit untuk Quantitative Trading
+Proyek ini dirancang khusus sebagai **starter kit** untuk siapa saja yang ingin belajar dan mengembangkan sistem **Quantitative Trading**. Di Indonesia, quantitative trading sedang menjadi tren yang sangat populer di kalangan trader dan investor modern. Melalui proyek ini, Anda akan mempelajari cara:
+- Menganalisis data pasar secara kuantitatif
+- Membangun model prediksi menggunakan Machine Learning
+- Mengimplementasikan strategi trading berbasis data
+- Melakukan backtesting dan risk management
+
 Tujuan utama proyek ini adalah untuk mengeksplorasi, menganalisis, dan memprediksi pergerakan pasar menggunakan berbagai dataset finansial, mulai dari saham tradisional hingga aset kripto dan sentimen berita. Anda bebas mengerjakan proyek sesuai urutan dan kecepatan Anda sendiri, atau bahkan berkontribusi dengan proyek baru!
+
+### 🔑 API Key Gratis untuk Contributors
+**PENTING:** Untuk para contributor yang ingin mengembangkan proyek ini, Anda bisa mendapatkan **API Key GRATIS** dari OHLC.dev! 
+
+📞 **Cara Mendapatkan API Key:**
+Hubungi Telegram: [@advancedmicrodevice](https://t.me/advancedmicrodevice)
+
+API key ini khusus untuk keperluan pengembangan proyek open-source ini dan akan memberikan Anda akses penuh ke semua data yang diperlukan.
 
 ## 📊 Sumber Data
 Seluruh data yang digunakan dalam proyek ini didukung oleh **[OHLC.dev](https://ohlc.dev)**, penyedia API data finansial yang lengkap dan reliabel.
@@ -61,6 +76,71 @@ Dataset yang digunakan meliputi:
 | **Project 28** | Market Regime Detector | Deteksi perubahan regime pasar (Bull/Bear/Sideways Market) | OHLC, Economic Calendar | Hidden Markov Model (HMM) |
 | **Project 29** | Risk Management System | Sistem prediksi Value at Risk (VaR) dan Conditional VaR | OHLC, IDX Stock Data | Monte Carlo Simulation / GARCH |
 | **Project 30** | Automated Trading Bot | Bot trading otomatis berbasis prediksi ML dengan risk management | All APIs | Reinforcement Learning (DQN/PPO) |
+
+## 🤝 Alur Kontribusi
+
+Kami sangat menyambut kontribusi dari siapa saja! Berikut adalah alur kontribusi yang terstruktur untuk memudahkan kolaborasi:
+
+### 📋 Langkah-langkah Kontribusi:
+
+#### 1️⃣ Clone Repositori
+Pertama, clone repositori ini ke local machine Anda:
+```bash
+git clone https://github.com/EnvyxLinzie/30-Project-Open-Source-Machine-Learning.git
+cd 30-Project-Open-Source-Machine-Learning
+```
+
+#### 2️⃣ Pilih Proyek
+Lihat daftar [30 Proyek Machine Learning](#️-daftar-30-proyek-machine-learning) di atas, lalu pilih proyek mana yang ingin Anda kerjakan.
+
+#### 3️⃣ Kerjakan di Folder `Ongoing-Project`
+- Buat folder baru dengan nama proyek yang Anda pilih di dalam direktori `Ongoing-Project/`
+- Contoh: `Ongoing-Project/Project-03-IDX-Sector-Analyzer/`
+- Push pekerjaan Anda ke folder ini agar developer lain bisa berkolaborasi dengan Anda
+
+```bash
+# Contoh struktur folder
+Ongoing-Project/
+  └── Project-03-IDX-Sector-Analyzer/
+      ├── data/
+      ├── notebooks/
+      ├── src/
+      └── README.md
+```
+
+#### 4️⃣ Kolaborasi dengan Developer Lain
+- Developer lain bisa melihat progress Anda dan berkontribusi
+- Gunakan Pull Request untuk review kode
+- Komunikasikan melalui GitHub Issues
+
+#### 5️⃣ Pindahkan ke `Completed-Project`
+Jika proyek sudah **100% selesai** dan telah direview:
+- Pindahkan folder proyek dari `Ongoing-Project/` ke `Completed-Project/`
+- Pastikan ada dokumentasi lengkap (README, requirements.txt, dll)
+- Tambahkan hasil evaluasi model dan kesimpulan
+
+```bash
+# Contoh struktur completed project
+Completed-Project/
+  └── Project-03-IDX-Sector-Analyzer/
+      ├── data/
+      ├── notebooks/
+      ├── src/
+      ├── models/
+      ├── results/
+      ├── README.md
+      └── requirements.txt
+```
+
+### ✅ Kriteria Proyek "Completed"
+Proyek dianggap selesai 100% jika sudah memenuhi:
+- ✅ Kode bersih dan terdokumentasi dengan baik
+- ✅ Ada README yang menjelaskan cara menjalankan proyek
+- ✅ Model ML sudah dilatih dan dievaluasi
+- ✅ Ada file requirements.txt atau environment.yml
+- ✅ (Opsional) Sudah ada visualisasi hasil atau dashboard
+
+---
 
 ## 🚀 Cara Memulai
 1.  Clone repositori ini:
