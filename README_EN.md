@@ -93,6 +93,32 @@ Datasets included:
 4.  **Crypto Exchange Liquidation**: Liquidation data from ~10 major crypto exchanges.
 5.  **News Flow API**: Real-time news flow (title, body, description) for sentiment analysis.
 
+## 🧠 Machine Learning Model Reference
+
+To assist you in project development, we have prepared a **[comprehensive machine learning models list](Models/List.md)** relevant for quantitative trading and financial analysis.
+
+📂 **The `Models/` folder** contains:
+- **49+ Curated Machine Learning Models** for quantitative trading purposes
+- Model categories include:
+  - 🔮 **Time Series Forecasting**: LSTM, Prophet, ARIMA, TimeGPT, Chronos, etc.
+  - 🌳 **Gradient Boosting**: XGBoost, LightGBM, CatBoost
+  - 💬 **Financial NLP**: FinBERT, FinGPT, Sentiment Analysis Models
+  - 🤖 **Reinforcement Learning**: FinRL, Stable-Baselines3, RLlib
+  - 📈 **Portfolio Optimization**: PyPortfolioOpt, Riskfolio-Lib
+  - 🔍 **Anomaly Detection**: Isolation Forest, Autoencoders
+  - 🧪 **Backtesting Frameworks**: Backtrader, zipline-reloaded
+  - 🔬 **Model Interpretability**: SHAP, LIME
+
+**Each model** in the list includes:
+- **Desc:** Function description and use cases  
+- **Docs:** Link to official documentation/repository
+
+👉 **[View the complete model list here →](Models/List.md)**
+
+Use this list as a reference when working on your projects to choose the most suitable model for your needs!
+
+---
+
 ## 🗓️ 30 Machine Learning Projects List
 
 | Project | Project Name | Description | API Used | Machine Learning Model |

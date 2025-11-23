@@ -93,6 +93,32 @@ Dataset yang digunakan meliputi:
 4.  **Crypto Exchange Liquidation**: Data likuidasi dari ±10 exchange kripto besar.
 5.  **News Flow API**: Arus berita real-time (judul, isi, deskripsi) untuk analisis sentimen.
 
+## 🧠 Model Machine Learning Reference
+
+Untuk membantu Anda dalam pengembangan proyek, kami telah menyiapkan **[daftar lengkap model machine learning](Models/List.md)** yang relevan untuk quantitative trading dan analisis finansial. 
+
+📂 **Folder `Models/`** berisi:
+- **49+ Model Machine Learning** yang telah dikurasi untuk keperluan quantitative trading
+- Kategori model meliputi:
+  - 🔮 **Time Series Forecasting**: LSTM, Prophet, ARIMA, TimeGPT, Chronos, dll
+  - 🌳 **Gradient Boosting**: XGBoost, LightGBM, CatBoost
+  - 💬 **Financial NLP**: FinBERT, FinGPT, Sentiment Analysis Models
+  - 🤖 **Reinforcement Learning**: FinRL, Stable-Baselines3, RLlib
+  - 📈 **Portfolio Optimization**: PyPortfolioOpt, Riskfolio-Lib
+  - 🔍 **Anomaly Detection**: Isolation Forest, Autoencoders
+  - 🧪 **Backtesting Frameworks**: Backtrader, zipline-reloaded
+  - 🔬 **Model Interpretability**: SHAP, LIME
+
+**Setiap model** dalam list dilengkapi dengan:
+- **Desc:** Deskripsi fungsi dan use case model  
+- **Docs:** Link ke dokumentasi/repository resmi
+
+👉 **[Lihat daftar lengkap model di sini →](Models/List.md)**
+
+Gunakan daftar ini sebagai referensi saat mengerjakan proyek Anda untuk memilih model yang paling sesuai dengan kebutuhan!
+
+---
+
 ## 🗓️ Daftar 30 Proyek Machine Learning
 
 | Proyek | Nama Proyek | Deskripsi | API yang Digunakan | Model Machine Learning |
